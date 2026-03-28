@@ -1,0 +1,36 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environments
+.venv/
+venv/
+env/
+
+# environment variables / secrets
+.env
+.env.*
+
+# data (ignore everything inside)
+data/*
+!data/.gitkeep
+
+# database files (extra safety)
+*.db
+*.sqlite
+*.sqlite3
+
+# jupyter
+.ipynb_checkpoints/
+
+# ide / editor
+.vscode/
+.idea/
+
+# system files
+.DS_Store
+
+# logs
+*.log
