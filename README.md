@@ -31,6 +31,8 @@ Instead of storing ideas as linear text, the system represents them as **atomic 
 > [!TIP]
 > **Start here → [`notebooks/pks_prototype.ipynb`](notebooks/pks_prototype.ipynb)**  
 > This notebook contains the full pipeline, from raw input → structured idea graph → exploration.
+>
+> Or jump to [Example Outputs](#example-outputs)
 
 ## Core Capabilities
 
@@ -57,8 +59,11 @@ Instead of storing ideas as linear text, the system represents them as **atomic 
 - Select and chain operations through prompt-driven reasoning  
 - Aggregate multi-step results into coherent responses 
   </br>
+
+## Example Outputs
+
 <details>
-<summary><strong>Example (End-to-End Pipeline)</strong></summary>
+<summary><strong>Representative inputs and outputs from the notebook:</strong></summary>
 
 ### 1. Idea Extraction
 
